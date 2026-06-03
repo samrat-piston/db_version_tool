@@ -1,0 +1,1 @@
+ALTER TABLE "public"."Holiday" ALTER COLUMN "name" TYPE VARCHAR(55);
